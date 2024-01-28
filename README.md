@@ -56,7 +56,7 @@
 
 <!-- 
 ### Watch my contribution get eaten by the snake 🐍
-<img align="right" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" /> -->
+<img align="right" src="https://raw.githubusercontent.com/suuubh/suuubh/output/github-contribution-grid-snake.svg" /> -->
 
 
 
@@ -91,24 +91,10 @@
 
  
  <p align="center">
-  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=dark" >
+  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suuubh&theme=dark" >
  </p>   
 
-<details>
-  <summary>Watch me Social🤔.</summary>
-  <div>
-    <a href="https://twitter.com/shub______">
-      <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
-    </a>
-    
-   <a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="_blank">
-    <img width="350px" src="https://novatorem.vercel.app/api/spotify"/>
-  </a>
-  
-  
- </p>
-  </div>
-</details>
+
 <!-- <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
  </p>  -->
