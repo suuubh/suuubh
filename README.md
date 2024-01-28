@@ -90,16 +90,10 @@
 
 
  
- <p align="center">
-  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suuubh&theme=dark" >
- </p>   
 
 
-<!-- <p align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
- </p>  -->
-<p align="center">Show some ❤️ by starring some of the repositories !
-</p>
+
+
 
 
 
